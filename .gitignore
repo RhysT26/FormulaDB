@@ -1,0 +1,17 @@
+[0-9][0-9][0-9][0-9]/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Data / caches
+*.sqlite
+.ipynb_checkpoints/
